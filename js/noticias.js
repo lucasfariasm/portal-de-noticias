@@ -32,6 +32,8 @@ async function getNoticias() {
   }
 }
 
+//ainda há outra forma, busque-a.
+
 getNoticias();
 
 
